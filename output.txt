@@ -2,3 +2,6 @@
 Homebrew 1.8.0
 Homebrew/homebrew-core (git revision e66b; last commit 2018-10-28)
 Homebrew/homebrew-cask (git revision 76dd; last commit 2018-10-27)
+
+14:35 $ python3 --version
+Python 3.7.0
