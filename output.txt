@@ -5,3 +5,6 @@ Homebrew/homebrew-cask (git revision 76dd; last commit 2018-10-27)
 
 14:35 $ python3 --version
 Python 3.7.0
+
+14:37 $ pipenv --version
+pipenv, version 2018.10.13
